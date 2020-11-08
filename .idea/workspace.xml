@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="781a8906-9839-4e33-add7-78972313b92e" name="Default Changelist" comment="" />
+    <list default="true" id="781a8906-9839-4e33-add7-78972313b92e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/4.calculadora/calculadora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.anioBisiesto/anioBisiesto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.horasMinutos/horasMinutos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +35,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604087402480</updated>
       <workItem from="1604087405676" duration="104000" />
+      <workItem from="1604421342550" duration="1257000" />
+      <workItem from="1604424460070" duration="1530000" />
     </task>
     <servers />
   </component>
@@ -37,9 +44,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="468" y="84" key="FileChooserDialogImpl" timestamp="1604087498716">
-      <screen x="0" y="24" width="1366" height="744" />
+    <state x="658" y="113" width="426" height="511" key="FileChooserDialogImpl" timestamp="1604421385573">
+      <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="468" y="84" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1604087498716" />
+    <state x="658" y="113" width="426" height="511" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1604421385573" />
   </component>
 </project>
