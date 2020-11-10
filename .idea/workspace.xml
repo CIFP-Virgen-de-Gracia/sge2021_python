@@ -1,21 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="781a8906-9839-4e33-add7-78972313b92e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4.calculadora/calculadora.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.anioBisiesto/anioBisiesto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.horasMinutos/horasMinutos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Secuencias/1_listainvertida/.idea/1_listainvertida.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Secuencias/1_listainvertida/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Secuencias/1_listainvertida/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Secuencias/1_listainvertida/listainvertida.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Secuencias/2_listaocurrencias/.idea/1_listainvertida.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Secuencias/2_listaocurrencias/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Secuencias/2_listaocurrencias/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Secuencias/2_listaocurrencias/listaocurrencias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Secuencias/3_listaordenada/.idea/3_listaordenada.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Secuencias/3_listaordenada/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Secuencias/3_listaordenada/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Secuencias/3_listaordenada/listaordenada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas/.idea/4_nuevaslistas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas/nuevasListas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sge2021_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sge2021_python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.holamundo/.idea/0.holamundo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/0.holamundo/.idea/0.holamundo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.holamundo/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/0.holamundo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.holamundo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/0.holamundo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.holamundo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/0.holamundo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.holamundo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/0.holamundo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.holamundo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/0.holamundo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.holamundo/holamundo.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/0.holamundo/holamundo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.imperativoedad/.idea/1.imperativoedad.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/1.imperativoedad/.idea/1.imperativoedad.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.imperativoedad/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/1.imperativoedad/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.imperativoedad/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/1.imperativoedad/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.imperativoedad/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/1.imperativoedad/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.imperativoedad/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/1.imperativoedad/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.imperativoedad/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/1.imperativoedad/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.imperativoedad/imperativoedad.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/1.imperativoedad/imperativoedad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.perimetroArea/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/3.perimetroArea/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.perimetroArea/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/3.perimetroArea/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.perimetroArea/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/3.perimetroArea/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.perimetroArea/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/3.perimetroArea/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.perimetroArea/.idea/perimetroArea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/3.perimetroArea/.idea/perimetroArea.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.perimetroArea/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/3.perimetroArea/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.perimetroArea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/3.perimetroArea/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.perimetroArea/perimetro.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/3.perimetroArea/perimetro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.calculadora/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/4.calculadora/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.calculadora/.idea/4.calculadora.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/4.calculadora/.idea/4.calculadora.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.calculadora/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/4.calculadora/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.calculadora/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/4.calculadora/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.calculadora/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/4.calculadora/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.calculadora/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/4.calculadora/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.calculadora/calculadora.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/4.calculadora/calculadora.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.anioBisiesto/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.anioBisiesto/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.anioBisiesto/.idea/5.anioBisiesto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.anioBisiesto/.idea/5.anioBisiesto.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.anioBisiesto/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.anioBisiesto/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.anioBisiesto/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.anioBisiesto/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.anioBisiesto/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.anioBisiesto/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.anioBisiesto/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.anioBisiesto/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.anioBisiesto/anioBisiesto.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.anioBisiesto/anioBisiesto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.horasMinutos/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.horasMinutos/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.horasMinutos/.idea/5.horasMinutos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.horasMinutos/.idea/5.horasMinutos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.horasMinutos/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.horasMinutos/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.horasMinutos/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.horasMinutos/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.horasMinutos/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.horasMinutos/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.horasMinutos/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.horasMinutos/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.horasMinutos/horasMinutos.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.horasMinutos/horasMinutos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.numSecreto/.idea/6.numSecreto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto/.idea/6.numSecreto.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.numSecreto/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.numSecreto/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.numSecreto/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.numSecreto/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.numSecreto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.numSecreto/numSecreto.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto/numSecreto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="a343981a-be51-4982-b9d4-af493dc4606e" />
+  <component name="JupyterTrust" id="e9882f6a-4673-41cc-856c-bd905b9a9d78" />
   <component name="ProjectId" id="1jbz5oOhfc9u7Idk2t5zo0dbBIN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,7 +114,143 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2_Secuencias" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2_Secuencias" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.prueba">
+    <configuration name="listainvertida" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1_listainvertida" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Secuencias/1_listainvertida" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Secuencias/1_listainvertida/listainvertida.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listaocurrencias" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sge2021_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Secuencias/2_listaocurrencias" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Secuencias/2_listaocurrencias/listaocurrencias.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nuevasListas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="4_nuevaslistas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas/nuevasListas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="numSecreto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sge2021_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="TERM" value="xterm-color" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto/numSecreto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prueba" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="4_nuevaslistas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas/prueba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.listainvertida" />
+      <item itemvalue="Python.listaocurrencias" />
+      <item itemvalue="Python.nuevasListas" />
+      <item itemvalue="Python.numSecreto" />
+      <item itemvalue="Python.prueba" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.prueba" />
+        <item itemvalue="Python.numSecreto" />
+        <item itemvalue="Python.nuevasListas" />
+        <item itemvalue="Python.listaocurrencias" />
+        <item itemvalue="Python.listainvertida" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -37,17 +263,78 @@
       <workItem from="1604087405676" duration="104000" />
       <workItem from="1604421342550" duration="1257000" />
       <workItem from="1604424460070" duration="1530000" />
+      <workItem from="1604852540739" duration="4486000" />
+      <workItem from="1604921899977" duration="2250000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="658" y="113" width="426" height="511" key="FileChooserDialogImpl" timestamp="1604421385573">
+    <state x="836" y="261" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604922815395">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="836" y="261" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1604922815395" />
+    <state x="1218" y="342" width="311" height="520" key="EnvironmentVariablesDialog" timestamp="1604922813624">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="1218" y="342" width="311" height="520" key="EnvironmentVariablesDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1604922813624" />
+    <state x="658" y="113" width="426" height="511" key="FileChooserDialogImpl" timestamp="1604857822535">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="468" y="84" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1604087498716" />
-    <state x="658" y="113" width="426" height="511" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1604421385573" />
+    <state x="658" y="113" width="426" height="511" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1604857822535" />
+    <state width="1287" height="278" key="GridCell.Tab.0.bottom" timestamp="1604924746404">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1287" height="278" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1604924746404" />
+    <state width="1287" height="278" key="GridCell.Tab.0.center" timestamp="1604924746398">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1287" height="278" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1604924746398" />
+    <state width="1287" height="278" key="GridCell.Tab.0.left" timestamp="1604924746397">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1287" height="278" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1604924746397" />
+    <state width="1287" height="278" key="GridCell.Tab.0.right" timestamp="1604924746403">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1287" height="278" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1604924746403" />
+    <state width="1287" height="342" key="GridCell.Tab.1.bottom" timestamp="1604922851507">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1287" height="342" key="GridCell.Tab.1.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1604922851507" />
+    <state width="1287" height="342" key="GridCell.Tab.1.center" timestamp="1604922851507">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1287" height="342" key="GridCell.Tab.1.center/0.28.1920.1052@0.28.1920.1052" timestamp="1604922851507" />
+    <state width="1287" height="342" key="GridCell.Tab.1.left" timestamp="1604922851507">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1287" height="342" key="GridCell.Tab.1.left/0.28.1920.1052@0.28.1920.1052" timestamp="1604922851507" />
+    <state width="1287" height="342" key="GridCell.Tab.1.right" timestamp="1604922851507">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1287" height="342" key="GridCell.Tab.1.right/0.28.1920.1052@0.28.1920.1052" timestamp="1604922851507" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sge2021_python$prueba.coverage" NAME="prueba Coverage Results" MODIFIED="1604924746387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas" />
+    <SUITE FILE_PATH="coverage/sge2021_python$listainvertida.coverage" NAME="listainvertida Coverage Results" MODIFIED="1604860355002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Secuencias/1_listainvertida" />
+    <SUITE FILE_PATH="coverage/sge2021_python$nuevasListas.coverage" NAME="nuevasListas Coverage Results" MODIFIED="1604922732124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas" />
+    <SUITE FILE_PATH="coverage/sge2021_python$listaocurrencias.coverage" NAME="listaocurrencias Coverage Results" MODIFIED="1604860404030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Secuencias/2_listaocurrencias" />
+    <SUITE FILE_PATH="coverage/sge2021_python$numSecreto.coverage" NAME="numSecreto Coverage Results" MODIFIED="1604922851475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto" />
   </component>
 </project>
