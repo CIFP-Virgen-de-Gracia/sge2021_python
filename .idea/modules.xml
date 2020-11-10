@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/2_Secuencias/1_listainvertida/.idea/1_listainvertida.iml" filepath="$PROJECT_DIR$/2_Secuencias/1_listainvertida/.idea/1_listainvertida.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_Secuencias/3_listaordenada/.idea/3_listaordenada.iml" filepath="$PROJECT_DIR$/2_Secuencias/3_listaordenada/.idea/3_listaordenada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_Secuencias/4_nuevaslistas/.idea/4_nuevaslistas.iml" filepath="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas/.idea/4_nuevaslistas.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sge2021_python.iml" filepath="$PROJECT_DIR$/.idea/sge2021_python.iml" />
     </modules>
   </component>
