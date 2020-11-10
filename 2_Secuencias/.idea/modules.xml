@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../3_Str/1_cadenaCaracteres/.idea/1_cadenaCaracteres.iml" filepath="$PROJECT_DIR$/../3_Str/1_cadenaCaracteres/.idea/1_cadenaCaracteres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/2_Secuencias.iml" filepath="$PROJECT_DIR$/.idea/2_Secuencias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../3_Str/2_cadenaCaracteres/.idea/2_cadenaCaracteres.iml" filepath="$PROJECT_DIR$/../3_Str/2_cadenaCaracteres/.idea/2_cadenaCaracteres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../3_Str/.idea/3_Str.iml" filepath="$PROJECT_DIR$/../3_Str/.idea/3_Str.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../3_Str/3_palindromo/.idea/3_palindromo.iml" filepath="$PROJECT_DIR$/../3_Str/3_palindromo/.idea/3_palindromo.iml" />
+    </modules>
+  </component>
+</project>
