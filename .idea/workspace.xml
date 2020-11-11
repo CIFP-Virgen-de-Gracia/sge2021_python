@@ -20,75 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="781a8906-9839-4e33-add7-78972313b92e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2_Secuencias/1_listainvertida/.idea/1_listainvertida.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Secuencias/1_listainvertida/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Secuencias/1_listainvertida/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Secuencias/1_listainvertida/listainvertida.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Secuencias/2_listaocurrencias/.idea/1_listainvertida.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Secuencias/2_listaocurrencias/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Secuencias/2_listaocurrencias/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Secuencias/2_listaocurrencias/listaocurrencias.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Secuencias/3_listaordenada/.idea/3_listaordenada.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Secuencias/3_listaordenada/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Secuencias/3_listaordenada/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Secuencias/3_listaordenada/listaordenada.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas/.idea/4_nuevaslistas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas/nuevasListas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sge2021_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sge2021_python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.holamundo/.idea/0.holamundo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/0.holamundo/.idea/0.holamundo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.holamundo/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/0.holamundo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.holamundo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/0.holamundo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.holamundo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/0.holamundo/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.holamundo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/0.holamundo/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.holamundo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/0.holamundo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.holamundo/holamundo.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/0.holamundo/holamundo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.imperativoedad/.idea/1.imperativoedad.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/1.imperativoedad/.idea/1.imperativoedad.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.imperativoedad/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/1.imperativoedad/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.imperativoedad/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/1.imperativoedad/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.imperativoedad/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/1.imperativoedad/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.imperativoedad/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/1.imperativoedad/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.imperativoedad/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/1.imperativoedad/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.imperativoedad/imperativoedad.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/1.imperativoedad/imperativoedad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.perimetroArea/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/3.perimetroArea/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.perimetroArea/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/3.perimetroArea/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.perimetroArea/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/3.perimetroArea/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.perimetroArea/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/3.perimetroArea/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.perimetroArea/.idea/perimetroArea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/3.perimetroArea/.idea/perimetroArea.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.perimetroArea/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/3.perimetroArea/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.perimetroArea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/3.perimetroArea/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.perimetroArea/perimetro.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/3.perimetroArea/perimetro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.calculadora/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/4.calculadora/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.calculadora/.idea/4.calculadora.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/4.calculadora/.idea/4.calculadora.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.calculadora/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/4.calculadora/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.calculadora/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/4.calculadora/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.calculadora/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/4.calculadora/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.calculadora/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/4.calculadora/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.calculadora/calculadora.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/4.calculadora/calculadora.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.anioBisiesto/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.anioBisiesto/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.anioBisiesto/.idea/5.anioBisiesto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.anioBisiesto/.idea/5.anioBisiesto.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.anioBisiesto/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.anioBisiesto/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.anioBisiesto/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.anioBisiesto/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.anioBisiesto/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.anioBisiesto/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.anioBisiesto/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.anioBisiesto/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.anioBisiesto/anioBisiesto.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.anioBisiesto/anioBisiesto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.horasMinutos/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.horasMinutos/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.horasMinutos/.idea/5.horasMinutos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.horasMinutos/.idea/5.horasMinutos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.horasMinutos/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.horasMinutos/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.horasMinutos/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.horasMinutos/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.horasMinutos/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.horasMinutos/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.horasMinutos/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.horasMinutos/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.horasMinutos/horasMinutos.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/5.horasMinutos/horasMinutos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.numSecreto/.idea/6.numSecreto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto/.idea/6.numSecreto.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.numSecreto/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.numSecreto/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.numSecreto/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.numSecreto/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.numSecreto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.numSecreto/numSecreto.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto/numSecreto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,6 +197,7 @@
       <workItem from="1604424460070" duration="1530000" />
       <workItem from="1604852540739" duration="4486000" />
       <workItem from="1604921899977" duration="2250000" />
+      <workItem from="1605083405561" duration="1404000" />
     </task>
     <servers />
   </component>
@@ -292,11 +225,11 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="1218" y="342" width="311" height="520" key="EnvironmentVariablesDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1604922813624" />
-    <state x="658" y="113" width="426" height="511" key="FileChooserDialogImpl" timestamp="1604857822535">
+    <state x="658" y="113" width="426" height="511" key="FileChooserDialogImpl" timestamp="1605083466675">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="468" y="84" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1604087498716" />
-    <state x="658" y="113" width="426" height="511" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1604857822535" />
+    <state x="658" y="113" width="426" height="511" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1605083466675" />
     <state width="1287" height="278" key="GridCell.Tab.0.bottom" timestamp="1604924746404">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
