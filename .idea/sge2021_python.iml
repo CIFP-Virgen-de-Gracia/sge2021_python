@@ -8,5 +8,9 @@
     <orderEntry type="module" module-name="3_listaordenada" />
     <orderEntry type="module" module-name="4_nuevaslistas" />
     <orderEntry type="module" module-name="4_iteradores" />
+    <orderEntry type="module" module-name="1_contadorPalabras" />
+    <orderEntry type="module" module-name="2_codigoMorse" />
+    <orderEntry type="module" module-name="3_morseCadena" />
+    <orderEntry type="module" module-name="4_personas" />
   </component>
 </module>
