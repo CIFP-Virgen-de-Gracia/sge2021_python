@@ -4,9 +4,5 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="1_listainvertida" />
-    <orderEntry type="module" module-name="3_listaordenada" />
-    <orderEntry type="module" module-name="4_nuevaslistas" />
-    <orderEntry type="module" module-name="4_iteradores" />
   </component>
 </module>
