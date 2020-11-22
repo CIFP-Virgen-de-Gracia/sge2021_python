@@ -1,10 +1,10 @@
-from itertools import takewhile, count, islice
+from itertools import islice
 
 def sieve ():
     primos = [2]
     while True:
         yield primos[len(primos)-1]
-        a = primos[len(primos)-1]+1
+        a = primos[len(primos)-1]+1 #3
         encontrado = False
 
         while not encontrado:
