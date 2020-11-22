@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Carlos",
+    "apellido": "Pérez",
+    "fecha": "05/01/1989"
+  },
+  {
+    "id": 2,
+    "nombre": "Manuel",
+    "apellido": "Heredia",
+    "fecha": "26/12/1973"
+  },
+  {
+    "id": 3,
+    "nombre": "Rosa",
+    "apellido": "Campos",
+    "fecha": "12/06/1961"
+  },
+  {
+    "id": 4,
+    "nombre": "David",
+    "apellido": "García",
+    "fecha": "25/07/2006"
+  }
+]
