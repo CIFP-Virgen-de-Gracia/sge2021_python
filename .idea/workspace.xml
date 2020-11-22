@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="781a8906-9839-4e33-add7-78972313b92e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/2_Secuencias/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2_Secuencias/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_iteradores/iteradoresPrimos.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_iteradores/iteradoresPrimos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_exceptions/0_try/.idea/0_try.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_exceptions/0_try/try.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_exceptions/1_elementosNoRepetidos/.idea/1_elementosNoRepetidos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sge2021_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sge2021_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +60,7 @@
       <recent name="$PROJECT_DIR$/2_Secuencias" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.contador">
+  <component name="RunManager" selected="Python.noRepetidos">
     <configuration name="codigoMorse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2_codigoMorse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,28 +105,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="contadorPalabras" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="1_contadorPalabras" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_diccionarios/1_contadorPalabras" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_diccionarios/1_contadorPalabras/contadorPalabras.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sge2021_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,20 +127,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="iteradoresPrimos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="4_iteradores" />
+    <configuration name="noRepetidos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1_elementosNoRepetidos" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_iteradores" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_exceptions/1_elementosNoRepetidos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_iteradores/iteradoresPrimos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_exceptions/1_elementosNoRepetidos/noRepetidos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="0_try" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_exceptions/0_try" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_exceptions/0_try/try.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,19 +172,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.iteradoresPrimos" />
-      <item itemvalue="Python.contadorPalabras" />
       <item itemvalue="Python.codigoMorse" />
       <item itemvalue="Python.files" />
       <item itemvalue="Python.contador" />
+      <item itemvalue="Python.try" />
+      <item itemvalue="Python.noRepetidos" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.noRepetidos" />
+        <item itemvalue="Python.try" />
         <item itemvalue="Python.contador" />
         <item itemvalue="Python.files" />
         <item itemvalue="Python.codigoMorse" />
-        <item itemvalue="Python.contadorPalabras" />
-        <item itemvalue="Python.iteradoresPrimos" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +203,7 @@
       <workItem from="1604921899977" duration="2250000" />
       <workItem from="1605083405561" duration="2092000" />
       <workItem from="1605461308074" duration="5695000" />
-      <workItem from="1606033602189" duration="581000" />
+      <workItem from="1606033602189" duration="2104000" />
     </task>
     <servers />
   </component>
@@ -227,27 +231,27 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="1218" y="342" width="311" height="520" key="EnvironmentVariablesDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1604922813624" />
-    <state x="658" y="113" width="426" height="511" key="FileChooserDialogImpl" timestamp="1605464307240">
+    <state x="658" y="113" width="426" height="511" key="FileChooserDialogImpl" timestamp="1606034336414">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="468" y="84" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1604087498716" />
-    <state x="658" y="113" width="426" height="511" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1605464307240" />
-    <state width="1287" height="342" key="GridCell.Tab.0.bottom" timestamp="1605471543939">
+    <state x="658" y="113" width="426" height="511" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1606034336414" />
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1606038534378">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1287" height="342" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1605471543939" />
-    <state width="1287" height="342" key="GridCell.Tab.0.center" timestamp="1605471543939">
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1606038534378" />
+    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1606038534378">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1287" height="342" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1605471543939" />
-    <state width="1287" height="342" key="GridCell.Tab.0.left" timestamp="1605471543939">
+    <state width="1874" height="278" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1606038534378" />
+    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1606038534378">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1287" height="342" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1605471543939" />
-    <state width="1287" height="342" key="GridCell.Tab.0.right" timestamp="1605471543939">
+    <state width="1874" height="278" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1606038534378" />
+    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1606038534378">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1287" height="342" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1605471543939" />
+    <state width="1874" height="278" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1606038534378" />
     <state width="1287" height="342" key="GridCell.Tab.1.bottom" timestamp="1605471543940">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
@@ -266,16 +270,18 @@
     <state width="1287" height="342" key="GridCell.Tab.1.right/0.28.1920.1052@0.28.1920.1052" timestamp="1605471543940" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/sge2021_python$prueba.coverage" NAME="prueba Coverage Results" MODIFIED="1604924746387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas" />
     <SUITE FILE_PATH="coverage/sge2021_python$iteradoresPrimos.coverage" NAME="iteradoresPrimos Coverage Results" MODIFIED="1605464358967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_iteradores" />
-    <SUITE FILE_PATH="coverage/sge2021_python$listainvertida.coverage" NAME="listainvertida Coverage Results" MODIFIED="1604860355002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Secuencias/1_listainvertida" />
     <SUITE FILE_PATH="coverage/sge2021_python$nuevasListas.coverage" NAME="nuevasListas Coverage Results" MODIFIED="1604922732124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas" />
+    <SUITE FILE_PATH="coverage/sge2021_python$noRepetidos.coverage" NAME="noRepetidos Coverage Results" MODIFIED="1606034966773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_exceptions/1_elementosNoRepetidos" />
+    <SUITE FILE_PATH="coverage/sge2021_python$try.coverage" NAME="try Coverage Results" MODIFIED="1606034489556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_exceptions/0_try" />
+    <SUITE FILE_PATH="coverage/sge2021_python$contador.coverage" NAME="contador Coverage Results" MODIFIED="1605466689592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_files" />
+    <SUITE FILE_PATH="coverage/sge2021_python$numSecreto.coverage" NAME="numSecreto Coverage Results" MODIFIED="1604922851475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto" />
+    <SUITE FILE_PATH="coverage/sge2021_python$contadorPalabras.coverage" NAME="contadorPalabras Coverage Results" MODIFIED="1605464363108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_diccionarios/1_contadorPalabras" />
+    <SUITE FILE_PATH="coverage/sge2021_python$prueba.coverage" NAME="prueba Coverage Results" MODIFIED="1604924746387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas" />
+    <SUITE FILE_PATH="coverage/sge2021_python$listainvertida.coverage" NAME="listainvertida Coverage Results" MODIFIED="1604860355002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Secuencias/1_listainvertida" />
     <SUITE FILE_PATH="coverage/sge2021_python$codigoMorse.coverage" NAME="codigoMorse Coverage Results" MODIFIED="1605464982691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_diccionarios/2_codigoMorse" />
     <SUITE FILE_PATH="coverage/sge2021_python$files.coverage" NAME="files Coverage Results" MODIFIED="1605466437460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_files" />
     <SUITE FILE_PATH="coverage/sge2021_python$listaocurrencias.coverage" NAME="listaocurrencias Coverage Results" MODIFIED="1604860404030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Secuencias/2_listaocurrencias" />
-    <SUITE FILE_PATH="coverage/sge2021_python$contador.coverage" NAME="contador Coverage Results" MODIFIED="1605466689592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_files" />
-    <SUITE FILE_PATH="coverage/sge2021_python$numSecreto.coverage" NAME="numSecreto Coverage Results" MODIFIED="1604922851475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto" />
     <SUITE FILE_PATH="coverage/sge2021_python$iteradores.coverage" NAME="iteradores Coverage Results" MODIFIED="1605461494385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_iteradores" />
-    <SUITE FILE_PATH="coverage/sge2021_python$contadorPalabras.coverage" NAME="contadorPalabras Coverage Results" MODIFIED="1605464363108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_diccionarios/1_contadorPalabras" />
   </component>
 </project>
