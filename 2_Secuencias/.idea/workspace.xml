@@ -45,14 +45,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../6_files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../7_exceptions" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../6_files" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.iteradoresPrimos">
+  <component name="RunManager" selected="Python.files">
     <configuration name="cadenaCaracteres" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1_cadenaCaracteres" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,6 +67,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../3_Str/1_cadenaCaracteres/cadenaCaracteres.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="6_files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../6_files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../6_files/files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,6 +143,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.files" />
         <item itemvalue="Python.iteradoresPrimos" />
         <item itemvalue="Python.palindromo" />
         <item itemvalue="Python.cadenaCaracteres" />
@@ -141,6 +164,9 @@
       <workItem from="1605688816443" duration="20000" />
       <workItem from="1605688886429" duration="2058000" />
       <workItem from="1605897551536" duration="677000" />
+      <workItem from="1606119651335" duration="836000" />
+      <workItem from="1606135770518" duration="840000" />
+      <workItem from="1606482523336" duration="2000" />
     </task>
     <servers />
   </component>
@@ -164,31 +190,31 @@
       <screen x="0" y="24" width="1280" height="696" />
     </state>
     <state x="102" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1280.696@0.24.1280.696" timestamp="1605617293481" />
-    <state x="432" y="24" key="FileChooserDialogImpl" timestamp="1605688908979">
-      <screen x="0" y="24" width="1280" height="696" />
+    <state x="466" y="42" key="FileChooserDialogImpl" timestamp="1606119874850">
+      <screen x="0" y="24" width="1366" height="744" />
     </state>
     <state x="432" y="24" key="FileChooserDialogImpl/0.24.1280.696@0.24.1280.696" timestamp="1605688908979" />
-    <state x="468" y="98" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1605004633665" />
-    <state width="1234" height="160" key="GridCell.Tab.0.bottom" timestamp="1605602352898">
-      <screen x="0" y="24" width="1280" height="696" />
+    <state x="466" y="42" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1606119874850" />
+    <state width="1320" height="175" key="GridCell.Tab.0.bottom" timestamp="1606121853503">
+      <screen x="0" y="24" width="1366" height="744" />
     </state>
     <state width="1234" height="160" key="GridCell.Tab.0.bottom/0.24.1280.696@0.24.1280.696" timestamp="1605602352898" />
-    <state width="1320" height="220" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1605005256232" />
-    <state width="1234" height="160" key="GridCell.Tab.0.center" timestamp="1605602352898">
-      <screen x="0" y="24" width="1280" height="696" />
+    <state width="1320" height="175" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1606121853503" />
+    <state width="1320" height="175" key="GridCell.Tab.0.center" timestamp="1606121853503">
+      <screen x="0" y="24" width="1366" height="744" />
     </state>
     <state width="1234" height="160" key="GridCell.Tab.0.center/0.24.1280.696@0.24.1280.696" timestamp="1605602352898" />
-    <state width="1320" height="220" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1605005256230" />
-    <state width="1234" height="160" key="GridCell.Tab.0.left" timestamp="1605602352898">
-      <screen x="0" y="24" width="1280" height="696" />
+    <state width="1320" height="175" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1606121853503" />
+    <state width="1320" height="175" key="GridCell.Tab.0.left" timestamp="1606121853503">
+      <screen x="0" y="24" width="1366" height="744" />
     </state>
     <state width="1234" height="160" key="GridCell.Tab.0.left/0.24.1280.696@0.24.1280.696" timestamp="1605602352898" />
-    <state width="1320" height="220" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1605005256229" />
-    <state width="1234" height="160" key="GridCell.Tab.0.right" timestamp="1605602352898">
-      <screen x="0" y="24" width="1280" height="696" />
+    <state width="1320" height="175" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1606121853503" />
+    <state width="1320" height="175" key="GridCell.Tab.0.right" timestamp="1606121853503">
+      <screen x="0" y="24" width="1366" height="744" />
     </state>
     <state width="1234" height="160" key="GridCell.Tab.0.right/0.24.1280.696@0.24.1280.696" timestamp="1605602352898" />
-    <state width="1320" height="220" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1605005256230" />
+    <state width="1320" height="175" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1606121853503" />
     <state width="1320" height="220" key="GridCell.Tab.1.bottom" timestamp="1605005256239">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
@@ -209,6 +235,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2_Secuencias$cadenaCaracteres.coverage" NAME="cadenaCaracteres Coverage Results" MODIFIED="1605005039670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../3_Str/1_cadenaCaracteres" />
     <SUITE FILE_PATH="coverage/2_Secuencias$iteradoresPrimos.coverage" NAME="iteradoresPrimos Coverage Results" MODIFIED="1605529108742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../4_iteradores" />
+    <SUITE FILE_PATH="coverage/2_Secuencias$files.coverage" NAME="files Coverage Results" MODIFIED="1606119728995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../6_files" />
     <SUITE FILE_PATH="coverage/2_Secuencias$palindromo.coverage" NAME="palindromo Coverage Results" MODIFIED="1605005256192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../3_Str/3_palindromo" />
   </component>
 </project>

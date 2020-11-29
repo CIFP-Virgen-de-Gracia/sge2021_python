@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="781a8906-9839-4e33-add7-78972313b92e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7_exceptions/0_try/.idea/0_try.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_exceptions/0_try/try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_exceptions/1_elementosNoRepetidos/.idea/1_elementosNoRepetidos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sge2021_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sge2021_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Secuencias/.idea/2_Secuencias.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2_Secuencias/.idea/2_Secuencias.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Secuencias/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2_Secuencias/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Secuencias/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2_Secuencias/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,6 +201,7 @@
       <workItem from="1605083405561" duration="2092000" />
       <workItem from="1605461308074" duration="5695000" />
       <workItem from="1606033602189" duration="2104000" />
+      <workItem from="1606678634555" duration="124000" />
     </task>
     <servers />
   </component>
