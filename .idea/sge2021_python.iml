@@ -14,5 +14,6 @@
     <orderEntry type="module" module-name="4_personas" />
     <orderEntry type="module" module-name="0_try" />
     <orderEntry type="module" module-name="1_elementosNoRepetidos" />
+    <orderEntry type="module" module-name="alumnos" />
   </component>
 </module>
