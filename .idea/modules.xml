@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/7_exceptions/0_try/.idea/0_try.iml" filepath="$PROJECT_DIR$/7_exceptions/0_try/.idea/0_try.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_diccionarios/1_contadorPalabras/.idea/1_contadorPalabras.iml" filepath="$PROJECT_DIR$/5_diccionarios/1_contadorPalabras/.idea/1_contadorPalabras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_exceptions/1_elementosNoRepetidos/.idea/1_elementosNoRepetidos.iml" filepath="$PROJECT_DIR$/7_exceptions/1_elementosNoRepetidos/.idea/1_elementosNoRepetidos.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_Secuencias/1_listainvertida/.idea/1_listainvertida.iml" filepath="$PROJECT_DIR$/2_Secuencias/1_listainvertida/.idea/1_listainvertida.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_diccionarios/2_codigoMorse/.idea/2_codigoMorse.iml" filepath="$PROJECT_DIR$/5_diccionarios/2_codigoMorse/.idea/2_codigoMorse.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_Secuencias/3_listaordenada/.idea/3_listaordenada.iml" filepath="$PROJECT_DIR$/2_Secuencias/3_listaordenada/.idea/3_listaordenada.iml" />

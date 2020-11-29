@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/../3_Str/2_cadenaCaracteres/.idea/2_cadenaCaracteres.iml" filepath="$PROJECT_DIR$/../3_Str/2_cadenaCaracteres/.idea/2_cadenaCaracteres.iml" />
       <module fileurl="file://$PROJECT_DIR$/../3_Str/.idea/3_Str.iml" filepath="$PROJECT_DIR$/../3_Str/.idea/3_Str.iml" />
       <module fileurl="file://$PROJECT_DIR$/../3_Str/3_palindromo/.idea/3_palindromo.iml" filepath="$PROJECT_DIR$/../3_Str/3_palindromo/.idea/3_palindromo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../6_files/.idea/6_files.iml" filepath="$PROJECT_DIR$/../6_files/.idea/6_files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../7_exceptions/.idea/7_exceptions.iml" filepath="$PROJECT_DIR$/../7_exceptions/.idea/7_exceptions.iml" />
     </modules>
   </component>
 </project>

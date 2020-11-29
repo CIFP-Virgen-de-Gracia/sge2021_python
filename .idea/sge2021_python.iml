@@ -12,5 +12,7 @@
     <orderEntry type="module" module-name="2_codigoMorse" />
     <orderEntry type="module" module-name="3_morseCadena" />
     <orderEntry type="module" module-name="4_personas" />
+    <orderEntry type="module" module-name="0_try" />
+    <orderEntry type="module" module-name="1_elementosNoRepetidos" />
   </component>
 </module>
