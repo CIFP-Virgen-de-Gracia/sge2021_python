@@ -8,5 +8,7 @@
     <orderEntry type="module" module-name="1_cadenaCaracteres" />
     <orderEntry type="module" module-name="2_cadenaCaracteres" />
     <orderEntry type="module" module-name="3_palindromo" />
+    <orderEntry type="module" module-name="6_files" />
+    <orderEntry type="module" module-name="7_exceptions" />
   </component>
 </module>
