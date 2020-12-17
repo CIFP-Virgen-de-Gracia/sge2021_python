@@ -20,5 +20,7 @@
     <orderEntry type="module" module-name="estaticas" />
     <orderEntry type="module" module-name="generadorPassword" />
     <orderEntry type="module" module-name="geometricas" />
+    <orderEntry type="module" module-name="NeoTokio" />
+    <orderEntry type="module" module-name="ExamenPython_FlorSantos" />
   </component>
 </module>
