@@ -21,5 +21,5 @@ class Persona():
 
     def __str__(self):
         clase = type(self).__name__
-        msg = "{0} => ID: {0}, Nombre: {1}"
+        msg = "{0} => ID: {1}, Nombre: {2}"
         return msg.format(clase, self.id, self.nombre)
