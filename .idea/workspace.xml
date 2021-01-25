@@ -63,7 +63,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/2_Secuencias" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -74,7 +74,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.ZombiesSimulation">
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExamenSGEDiego" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,6 +97,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ZombiesSimulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sge2021_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Zombies" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Zombies/ZombiesSimulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExamenJorgePrieto" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,28 +133,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../UD5 Parte I/SGE Diciembre 2020/ExamenJorgePrieto/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RicardoMartinez" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../UD5 Parte I/SGE Diciembre 2020/RicardoMartinez/Ejercicio2/main" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../UD5 Parte I/SGE Diciembre 2020/RicardoMartinez/Ejercicio2/main/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,19 +186,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main (3)" />
       <item itemvalue="Python.main (4)" />
       <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.Main" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.ZombiesSimulation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ZombiesSimulation" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.Main" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -233,6 +233,7 @@
       <workItem from="1608286889012" duration="286000" />
       <workItem from="1608291845593" duration="328000" />
       <workItem from="1610526553063" duration="2379000" />
+      <workItem from="1610964812488" duration="4058000" />
     </task>
     <servers />
   </component>
@@ -286,6 +287,7 @@
     <SUITE FILE_PATH="coverage/sge2021_python$alumnos.coverage" NAME="alumnos Coverage Results" MODIFIED="1607327543296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_modular/alumnos" />
     <SUITE FILE_PATH="coverage/sge2021_python$estaticas.coverage" NAME="estaticas Coverage Results" MODIFIED="1608034482768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_POO/estaticas" />
     <SUITE FILE_PATH="coverage/sge2021_python$main__4_.coverage" NAME="main (4) Coverage Results" MODIFIED="1608161207857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../UD5 Parte I/SGE Diciembre 2020/Álvaro/Ejercicio1" />
+    <SUITE FILE_PATH="coverage/sge2021_python$ZombiesSimulation.coverage" NAME="ZombiesSimulation Coverage Results" MODIFIED="1610975923694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_Zombies" />
     <SUITE FILE_PATH="coverage/sge2021_python$contadorPalabras.coverage" NAME="contadorPalabras Coverage Results" MODIFIED="1605464363108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_diccionarios/1_contadorPalabras" />
     <SUITE FILE_PATH="coverage/sge2021_python$listainvertida.coverage" NAME="listainvertida Coverage Results" MODIFIED="1604860355002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Secuencias/1_listainvertida" />
     <SUITE FILE_PATH="coverage/sge2021_python$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1608160884928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../UD5 Parte I/SGE Diciembre 2020/RicardoMartinez/Ejercicio2/main" />
