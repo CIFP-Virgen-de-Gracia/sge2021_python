@@ -1,3 +1,4 @@
+# coding=utf-8
 from Factorias.FactoriaPatrulla import FactoriaPatrulla
 from Utilidades.Utilidades import Utilidades
 
