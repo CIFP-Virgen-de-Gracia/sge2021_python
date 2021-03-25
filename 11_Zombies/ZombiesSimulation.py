@@ -91,8 +91,7 @@ def simular_mordida(pueblo, zombie):
 
 def simular_zombies(pueblo):
     """Acciones:
-    - Comprobar si estamos en la misma posición que algún humano y en ese caso decidir aleatoriamente
-    si mordemos o no
+    - Comprobar si estamos en la misma posición que algún humano y en ese caso morder
     - Decidir aleatoriamente si corren, caminan, trotan
     - Decidir aleeatoriamente si persiguen a alguien o dejan de perseguir"""
     for personaje in pueblo.personajes:

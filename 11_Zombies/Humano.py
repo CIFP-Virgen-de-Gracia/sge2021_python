@@ -32,11 +32,11 @@ class Humano(Personaje):
             raise ValueError("Distinta posición. No puede atacarle.")
         if self.energia < 10:
             raise ValueError("Energía insuficiente. No puede atacar")
-        else:
-            personaje.recibir_ataque(self);
-            self.energia -= 10
-            if self.energia == 0:
-                self.morir()
+
+        personaje.recibir_ataque(self);
+        self.energia -= 10
+        if self.energia == 0:
+            self.morir()
 
     def sentir_peligro_cerca(self):
         """Se notifica al humano que tiene zombies cerca"""
