@@ -19,7 +19,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="781a8906-9839-4e33-add7-78972313b92e" name="Default Changelist" comment="" />
+    <list default="true" id="781a8906-9839-4e33-add7-78972313b92e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/12_Robots/Comunicacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Robots/Control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Robots/Modulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Robots/ModuloEstatico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Robots/ModuloHelicoidal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Robots/ModuloRotacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Robots/ModuloTraslacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Robots/Motor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Robots/MotorRotacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Robots/MotorTraslacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Robots/Robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Robots/RobotsSimulacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Robots/Sensor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Zombies/Humano.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_Zombies/Humano.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Zombies/ZombiesSimulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_Zombies/ZombiesSimulation.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +91,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ZombiesSimulation">
+  <component name="RunManager" selected="Python.RobotsSimulacion">
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExamenSGEDiego" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,6 +106,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../UD5 Parte I/SGE Diciembre 2020/ExamenSGEDiego/Ejercicio1/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RobotsSimulacion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sge2021_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_Robots" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_Robots/RobotsSimulacion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,28 +180,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Examen" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../UD5 Parte I/SGE Diciembre 2020/Álvaro/Ejercicio1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../UD5 Parte I/SGE Diciembre 2020/Álvaro/Ejercicio1/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExamenPython_FlorSantos" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,19 +203,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main (4)" />
       <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.Main" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.ZombiesSimulation" />
+      <item itemvalue="Python.RobotsSimulacion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.RobotsSimulacion" />
         <item itemvalue="Python.ZombiesSimulation" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.Main" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -234,6 +251,8 @@
       <workItem from="1608291845593" duration="328000" />
       <workItem from="1610526553063" duration="2379000" />
       <workItem from="1610964812488" duration="4058000" />
+      <workItem from="1611576616063" duration="3725000" />
+      <workItem from="1612101482884" duration="12078000" />
     </task>
     <servers />
   </component>
@@ -275,6 +294,7 @@
     <SUITE FILE_PATH="coverage/sge2021_python$prueba.coverage" NAME="prueba Coverage Results" MODIFIED="1604924746387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Secuencias/4_nuevaslistas" />
     <SUITE FILE_PATH="coverage/sge2021_python$noRepetidos.coverage" NAME="noRepetidos Coverage Results" MODIFIED="1606034966773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_exceptions/1_elementosNoRepetidos" />
     <SUITE FILE_PATH="coverage/sge2021_python$numSecreto.coverage" NAME="numSecreto Coverage Results" MODIFIED="1604922851475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Sintaxis_basica/6.numSecreto" />
+    <SUITE FILE_PATH="coverage/sge2021_python$RobotsSimulacion.coverage" NAME="RobotsSimulacion Coverage Results" MODIFIED="1612174397476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_Robots" />
     <SUITE FILE_PATH="coverage/sge2021_python$iteradores.coverage" NAME="iteradores Coverage Results" MODIFIED="1605461494385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_iteradores" />
     <SUITE FILE_PATH="coverage/sge2021_python$try.coverage" NAME="try Coverage Results" MODIFIED="1607879655384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_exceptions/0_try" />
     <SUITE FILE_PATH="coverage/sge2021_python$main__5_.coverage" NAME="main (5) Coverage Results" MODIFIED="1608159461676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../UD5 Parte I/SGE Diciembre 2020/guillermo/Ejercicio2" />
@@ -287,7 +307,7 @@
     <SUITE FILE_PATH="coverage/sge2021_python$alumnos.coverage" NAME="alumnos Coverage Results" MODIFIED="1607327543296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_modular/alumnos" />
     <SUITE FILE_PATH="coverage/sge2021_python$estaticas.coverage" NAME="estaticas Coverage Results" MODIFIED="1608034482768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_POO/estaticas" />
     <SUITE FILE_PATH="coverage/sge2021_python$main__4_.coverage" NAME="main (4) Coverage Results" MODIFIED="1608161207857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../UD5 Parte I/SGE Diciembre 2020/Álvaro/Ejercicio1" />
-    <SUITE FILE_PATH="coverage/sge2021_python$ZombiesSimulation.coverage" NAME="ZombiesSimulation Coverage Results" MODIFIED="1610975923694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_Zombies" />
+    <SUITE FILE_PATH="coverage/sge2021_python$ZombiesSimulation.coverage" NAME="ZombiesSimulation Coverage Results" MODIFIED="1612168959948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_Zombies" />
     <SUITE FILE_PATH="coverage/sge2021_python$contadorPalabras.coverage" NAME="contadorPalabras Coverage Results" MODIFIED="1605464363108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_diccionarios/1_contadorPalabras" />
     <SUITE FILE_PATH="coverage/sge2021_python$listainvertida.coverage" NAME="listainvertida Coverage Results" MODIFIED="1604860355002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Secuencias/1_listainvertida" />
     <SUITE FILE_PATH="coverage/sge2021_python$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1608160884928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../UD5 Parte I/SGE Diciembre 2020/RicardoMartinez/Ejercicio2/main" />
